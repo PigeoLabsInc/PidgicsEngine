@@ -1,0 +1,15 @@
+/* Bird Styles */
+.Bird {
+	background-image:url("pigeo.png");
+	background-position:0px 0px;
+
+	position:absolute;
+	top:0;
+	left:0;
+
+	width:64px;
+	height:68px;
+
+	overflow:hidden;
+}
+/**/
